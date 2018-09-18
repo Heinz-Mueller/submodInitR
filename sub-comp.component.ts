@@ -12,4 +12,8 @@ export class SubCompComponent implements OnInit {
   ngOnInit() {
   }
 
+  test(): void {
+    console.log("TESTTTT");
+  }
+
 }
